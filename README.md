@@ -9,7 +9,7 @@ this is simple text
 
 this is math formula  
 
-y_i = \{y_{i,1}, y_{i,2}, ..., y_{i,n_i}\}  
+$$y_i = \{y_{i,1}, y_{i,2}, ..., y_{i,n_i}\}$$
 
 
 * one
